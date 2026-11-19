@@ -13,8 +13,6 @@ Por enquanto, este repositório guarda o primeiro estudo da IC: um teste de comp
 | `teste_compressao/teste_compressao.py` | O programa do teste (Python 3, sem bibliotecas extras) |
 | `teste_compressao/dados/` | Os dados do INMET usados no teste |
 | `teste_compressao.md` | Como o teste foi feito e os resultados |
-| `explicacao_algoritmos.md` | Como funciona cada método de compressão |
-| `explicacao_diferenca_huffman.md` | Como a diferença + Huffman funciona no código |
 
 ## Como rodar o teste
 
